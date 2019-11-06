@@ -1,0 +1,13 @@
+{
+    "name": "Marianna",
+    "job": {
+        "title": "Student",
+        "languages": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Java",
+            "Python"
+        ]
+    }
+}

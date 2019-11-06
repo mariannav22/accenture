@@ -2,7 +2,7 @@ function speed(distance, time) {
     if (distance <= 0 || time <= 0) {
         return undefined;
     }
-    else if (typeof distance !== "number" || typeof time !== "number") {
+    else if (typeof distance !== "number" ||                         typeof time !== "number") {
         return undefined;
     }
     else {
